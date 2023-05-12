@@ -1,8 +1,9 @@
 <h1 align="left">Hi 👋, I'm Ahmed</h1>
 <h3 align="left">A Fullstack Software Engineer from Lahore, Pakistan</h3>
 
-🔭 I’m currently working on [Insurify](https://insurify.com/)<br/>
-💻 Fullstack Engineer at [Arbisoft](https://arbisoft.com/). — July 2020 to Present<br/>
+🔭 I’m currently working on [IIInigence](https://www.iiinigence.com/) — Mar 2023 to Present <br/>
+💻 Former Fullstack Engineer at [Insurify](https://insurify.com/). — July 2020 to Feb 2023<br/>
+💻 Former Fullstack Engineer at [Arbisoft](https://arbisoft.com/). — July 2020 to Feb 2023<br/>
 🎓 BS(CS) from FAST-NUCES, Lahore — August 2016 to July 2020<br/>
 🏅 Graduated with a Dean's list honor from FAST-NUCES — July 2020<br/>
 
