@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ahmed+Hasan;Lead+Full-Stack+Engineer;Secure+Azure+%26+Compliance+Systems;Claude+Certified+Architect)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmdhsn-dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadx16@hotmail.com)
 [![Cinnova](https://img.shields.io/badge/Cinnova-Lead%20Engineer-1a1a2e?style=for-the-badge)](https://www.cinnova.com/)
 
@@ -14,7 +14,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ahmdhsn-dev&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
-I'm a **Lead Full-Stack Engineer** at [Cinnova](https://www.cinnova.com/) with 5+ years shipping production systems — from high-traffic consumer platforms to **IRS electronic filing infrastructure**. I combine React/TypeScript and Python/Django depth with a specialty in **secure Azure architecture**, encrypted data exchange, and compliance-sensitive workloads (PII, HIPAA, tax filing).
+I'm a **Lead Full-Stack Engineer** at [Cinnova](https://www.cinnova.com/) with 7+ years shipping production systems — from high-traffic consumer platforms to **IRS electronic filing infrastructure**. I combine React/TypeScript and Python/Django depth with a specialty in **secure Azure architecture**, encrypted data exchange, and compliance-sensitive workloads (PII, HIPAA, tax filing).
 
 **Selected impact:**
 
@@ -56,17 +56,6 @@ const ahmedHasan = {
 
 ---
 
-## 🚀 Featured Work
-
-| Project | What it demonstrates | Links |
-|---------|---------------------|-------|
-| **Taskbarter** | Full-stack OSS — React, Node.js, protected APIs | [GitHub](https://github.com/ahmdhsn-dev) *(update URL)* |
-| **Real-Time SSE System** | Low-latency chat & notifications in Remix.js | [Case study](https://github.com/ahmdhsn-dev/architecture-case-studies/blob/main/case-studies/realtime-sse-notifications.md) |
-| **700M+ Row Migration** | Zero-downtime PostgreSQL migration at production scale | [Case study](https://github.com/ahmdhsn-dev/architecture-case-studies/blob/main/case-studies/zero-downtime-700m-migration.md) |
-| **IRS E-Filing Pipeline** | Azure security architecture for regulated tax data | [Case study](https://github.com/ahmdhsn-dev/architecture-case-studies/blob/main/case-studies/irs-efiling-azure-security.md) |
-
----
-
 ## 💼 Experience
 
 | Period | Role | Company | Highlight |
@@ -85,15 +74,9 @@ const ahmedHasan = {
 
 ## ⚜️ Certifications
 
-<!-- Add certificate badge images to assets/certs/ then uncomment and update paths -->
-<!-- Example: [![Claude Certified Architect](./assets/certs/claude-certified-architect.png)](credential-url) -->
-
-| Certification | Issuer | Status |
-|---------------|--------|--------|
-| **Claude Certified Architect** | Anthropic | [View credential](https://www.anthropic.com/) *(add link)* |
-
-> [!NOTE]
-> Add certificate badge images to `assets/certs/` in your profile repo (see [DIMFLIX/DIMFLIX](https://github.com/DIMFLIX/DIMFLIX#-ordinary-certificates) for layout inspiration). Export PNGs from your credential pages and display them in a row below this table.
+| Certification | Issuer | Credential |
+|---------------|--------|------------|
+| **Claude Certified Architect — Foundations** | Anthropic | [View on Credly](https://www.credly.com/badges/512aa1bb-90c9-47a7-a4ed-c02c057cbee2/public_url) |
 
 ---
 
@@ -122,5 +105,5 @@ const ahmedHasan = {
 
 Open to consulting on **Azure architecture**, **compliance-driven system design**, and **responsible AI integration** for fintech, healthtech, and regulated SaaS.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmdhsn-dev/)
 [![Email](https://img.shields.io/badge/Email-ahmadx16@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadx16@hotmail.com)
