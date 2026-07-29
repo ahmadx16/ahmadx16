@@ -16,6 +16,8 @@
 
 I'm a **Lead Full-Stack Engineer** at [Cinnova](https://www.cinnova.com/) with 7+ years shipping production systems — from high-traffic consumer platforms to **IRS electronic filing infrastructure**. I combine React/TypeScript and Python/Django depth with a specialty in **secure Azure architecture**, encrypted data exchange, and compliance-sensitive workloads (PII, HIPAA, tax filing).
 
+![](https://komarev.com/ghpvc/?username=ahmdhsn-dev)
+
 **Selected impact:**
 
 - Migrated **700M+ database rows** with zero downtime at Insurify
